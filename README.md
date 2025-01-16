@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <style>
-        table, th, td {
-          border:1px solid black;
-        }
-        </style>
-<body>
+   <body>
 <h2 align="center">TUGAS TGL 16</h2>
 <h3>Contoh Ordered List</h3>
 <ol>
